@@ -1,4 +1,13 @@
 header {
   background-color: #bbbbbb;
-  border: thick double #aaaaaa;
+  border: 2px dashed #aaaaaa;
+  text-align: center;
+  color: #222222;
+}
+
+body{
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
