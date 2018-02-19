@@ -1,13 +1,20 @@
 header {
   background-color: #bbbbbb;
-  border: 2px dashed #aaaaaa;
+  border: 4px dashed #aaaaaa;
   text-align: center;
-  color: #222222;
+  color: #CCCCCC;
 }
-
+main{
+  margin-top: 12px;
+  padding: 20px 0px 20px 0px;
+  text-align: left;
+  color: #000000;
+}
 body{
   margin-right: 0px;
   margin-left: 0px;
   margin-bottom: 0px;
   margin-top: 0px;
+  color: #000;
+  color: #f4f4f4;
 }
