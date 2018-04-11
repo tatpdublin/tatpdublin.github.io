@@ -18,3 +18,38 @@ body{
   color: #000;
   color: #f4f4f4;
 }
+
+/* css from webdev2018
+header, .main {
+  background-color: #bbbbbb;
+  border: 2px dashed #32a1ce;
+  color: #222222;
+  text-align: center;
+}
+
+.main {
+  margin-top: 10px;
+  padding: 10px 0px 20px 0px;
+}
+
+.main:hover {
+  background-image: url("https://thumbs.gfycat.com/YellowishNaughtyGazelle-size_restricted.gif");
+}
+
+body {
+  background: #afb642;
+  margin: 0px;
+}
+
+a {
+  color: #8c940e;
+}
+
+a:hover {
+  color: #ff71ce;
+}
+
+a:active {
+  font-weight: bold;
+  color: red;
+} */
